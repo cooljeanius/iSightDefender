@@ -1,4 +1,10 @@
 DerivedData
-build
+build/*
+*.build
 iSightDefender.xcodeproj/project.xcworkspace
 iSightDefender.xcodeproj/xcuserdata
+*.pbxuser
+*.perspectivev3
+*.kext
+*.dSYM
+*.o
